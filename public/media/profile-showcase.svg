@@ -1,0 +1,25 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" rx="40" fill="#0F1718"/>
+  <circle cx="170" cy="120" r="110" fill="#65E0B7" fill-opacity="0.16"/>
+  <circle cx="760" cy="110" r="130" fill="#FFB86B" fill-opacity="0.18"/>
+  <circle cx="740" cy="560" r="160" fill="#65E0B7" fill-opacity="0.1"/>
+  <rect x="90" y="90" width="720" height="520" rx="32" fill="#172427" stroke="#2E4548"/>
+  <rect x="130" y="140" width="300" height="340" rx="28" fill="#203236" stroke="#365156"/>
+  <rect x="470" y="140" width="210" height="70" rx="18" fill="#203236"/>
+  <rect x="470" y="232" width="260" height="18" rx="9" fill="#65E0B7" fill-opacity="0.85"/>
+  <rect x="470" y="266" width="220" height="18" rx="9" fill="#F4F5EF" fill-opacity="0.85"/>
+  <rect x="470" y="300" width="180" height="18" rx="9" fill="#C2CBC6" fill-opacity="0.7"/>
+  <rect x="470" y="350" width="270" height="120" rx="24" fill="#1C2B2E" stroke="#345056"/>
+  <rect x="500" y="386" width="120" height="14" rx="7" fill="#FFB86B"/>
+  <rect x="500" y="414" width="190" height="12" rx="6" fill="#F4F5EF" fill-opacity="0.85"/>
+  <rect x="500" y="438" width="160" height="12" rx="6" fill="#C2CBC6" fill-opacity="0.72"/>
+  <rect x="470" y="500" width="150" height="56" rx="18" fill="#65E0B7"/>
+  <rect x="640" y="500" width="100" height="56" rx="18" fill="#273C40" stroke="#365156"/>
+  <circle cx="280" cy="235" r="74" fill="#65E0B7" fill-opacity="0.22"/>
+  <rect x="205" y="322" width="150" height="18" rx="9" fill="#F4F5EF"/>
+  <rect x="180" y="356" width="200" height="14" rx="7" fill="#C2CBC6" fill-opacity="0.75"/>
+  <rect x="165" y="400" width="230" height="20" rx="10" fill="#FFB86B" fill-opacity="0.85"/>
+  <text x="470" y="192" fill="#F4F5EF" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Interactive Portfolio</text>
+  <text x="165" y="560" fill="#C2CBC6" font-family="Inter, Arial, sans-serif" font-size="28">Consistent UI, documents, and polished presentation</text>
+</svg>
+
